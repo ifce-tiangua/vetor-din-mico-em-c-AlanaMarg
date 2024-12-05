@@ -30,5 +30,7 @@ int main()
         }
     }
 
+    free(vetor);
+
     return 0;
 }
