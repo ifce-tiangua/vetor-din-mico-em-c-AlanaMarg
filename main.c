@@ -24,7 +24,7 @@ int main()
         printf("%d", vetor[i]);
         
         if(i < size - 1) {
-            printf(",");
+            printf(", ");
         } else {
             printf("]");
         }
